@@ -2,6 +2,17 @@
 
 ---
 
+Multiclass classification neural network. Accuracy 97%. Precision for each class above 90%.
+
+7 classes:
+ - `goose`
+ - `turkey`
+ - `chicken`
+ - `rooster`
+ - `ostrich`
+ - `duck`
+ - `chick`
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
