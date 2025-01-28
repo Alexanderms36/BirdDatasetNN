@@ -172,4 +172,3 @@ cython_debug/
 
 
 bird_dataset/
-*.pth

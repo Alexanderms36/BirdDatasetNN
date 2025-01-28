@@ -6,7 +6,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
   - [Application](#Application)
-  - [Running the network from chapter 3](#running-the-chapter3)
+  - [Training notebook](#Training-notebook)
 - [File Structure](#file-structure)
 
 ## Installation
