@@ -30,3 +30,4 @@ while True:
                 print(f"Probability: {pred_prob:.2f}%")
         except:
                 print("image path is incorrect")
+
